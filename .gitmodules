@@ -1,0 +1,6 @@
+[submodule "color-box"]
+	path = color-box
+	url = https://github.com/DanicaRad/color-box
+[submodule "todo-list"]
+	path = todo-list
+	url = https://github.com/DanicaRad/todo-list
